@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "6ca917029881c5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "836028e0f0dab9c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6222a7265fc666c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "5a307581fa839705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French/French MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "French MOC"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "632306ae59bab8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07404da7abc28b12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d291d88e34ae9a11",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af5de8e349e8c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ecaff0e57adc89e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96ae6c10c74ccd68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b10335e08a999c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdff8d628f7b49e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b543d7032f491aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22dcedf61c12993b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "French/French MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for French MOC"
+            }
+          },
+          {
+            "id": "e8a2faf8e396144e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "French/French MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from French MOC"
+            }
+          },
+          {
+            "id": "1de1b4a8b28d93a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e30fbf574b0e069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "French/French MOC.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of French MOC"
+            }
+          },
+          {
+            "id": "c27e373daeb83362",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5a307581fa839705",
+  "lastOpenFiles": [
+    "README.md",
+    "French/French MOC.md",
+    "files",
+    "French",
+    "Welcome.md"
+  ]
+}
