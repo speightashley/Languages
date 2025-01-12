@@ -27,32 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/French MOC.md",
+                "file": "French/Lesson 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "French MOC"
+              "title": "Lesson 1"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "632306ae59bab8d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07404da7abc28b12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French/French MOC.md",
+                "file": "French/Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for French MOC"
+              "title": "Backlinks for Lesson 1"
             }
           },
           {
@@ -143,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "French/French MOC.md",
+                "file": "French/Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from French MOC"
+              "title": "Outgoing links from Lesson 1"
             }
           },
           {
@@ -170,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "French/French MOC.md"
+                "file": "French/Lesson 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of French MOC"
+              "title": "Outline of Lesson 1"
             }
           },
           {
@@ -191,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +191,10 @@
   },
   "active": "5a307581fa839705",
   "lastOpenFiles": [
-    "README.md",
+    "French/Volume 1.md",
+    "French/Lesson 1.md",
     "French/French MOC.md",
+    "README.md",
     "files",
     "French",
     "Welcome.md"
