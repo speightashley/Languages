@@ -49,4 +49,7 @@ Est-ce qu'il fait beau?
 
 ## Variations of PD 3
 
-M. Lebeau
+M. Lebeau va à Toulouse
+- Il va à Toulouse
+Paul va à Calais
+- Il va à Calais

@@ -23,3 +23,13 @@ Où est le stylo?
 
 Où est le tableau?
 - Il est là
+
+>[!Note]
+> Où + va + noun = Where .... ?
+
+Où va M. Lebeau?
+- Il va à Toulouse
+Où va Mme Capet?
+- Elle va à Calais
+Où va Yvette?
+- Elle va à Nice
