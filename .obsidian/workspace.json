@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Unit 1 Dialogue"
             }
+          },
+          {
+            "id": "ed0b07e3bab7d7de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -189,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad734b5a9f187568",
+  "active": "ed0b07e3bab7d7de",
   "lastOpenFiles": [
     "README.md",
     "French/FSI_French/Unit_1/Unit 1 Dialogue.md",
