@@ -19,17 +19,14 @@
 | jullie/U | you | 2nd person |
 | zij/ze | they | 3rd person |
 
-#### Example usage
+>[!example] Examples
+> - Henk woont in Zeist, Hij werkt in Utrecht
+> - Maria is lerares. Ze werkt part-time
 
-Henk woont in Zeist, Hij werkt in Utrecht
-
-Maria is lerares. Ze werkt part-time
-
-## Notes on things
-
-- **het** is used for neuter nouns
-- Hij is used for masculine and feminine nouns in the singular
-- Zij/ze is used for plural nouns
+>[!note] Notes on things
+>- **het** is used for neuter nouns
+>- Hij is used for masculine and feminine nouns in the singular
+>- Zij/ze is used for plural nouns
 
 Examples:
 
