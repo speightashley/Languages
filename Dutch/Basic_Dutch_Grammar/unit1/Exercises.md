@@ -83,4 +83,23 @@ Give to Ik and Wij versions of the following verbs:
 3. Ik neem, wij nemen
 4. Ik zwem, wij zwemmen
 5. Ik leef, wij leven
-6. Ik reis
+6. Ik reis, wij reizen
+7. Ik heb, wij hebben
+8. Ik loop, wij lopen
+9. Ik zit, wij zitten
+10. Ik laat, wij laten
+
+### Exercise 1.7
+
+| Pronoun       | Kopen | Passen | Eten | Schrijven | Lezen |
+| ------------- | ----- | ------ | ---- | --------- | ----- |
+| Ik            | Koop  | Pass   | Eet  | Schrijf   | Lees  |
+| Jij/Je, u     | koopt | past   | eet  | schrift   | leest |
+| Hij, Zij, het | koopt | pass   | eet  | schrijf   | lees  |
+| Wij/We        | kopen | passen | eten | schrijven | lezen |
+| Jullie        | kopen | passen | eten | schrijven | lezen |
+| Zij/ze        | kopen | passen | eten | schrijven | lezen |
+1 koop, koopt, koop je, koopt, kopen, kopen, kopen. 2 pas, past, pas je,
+past, passen, passen, passen. 3 eet, eet, eet je, eet, eten, eten, eten. 4 schrijf,
+schrijft, schrijf je, schrijft, schrijven, schrijven, schrijven. 5 lees, leest, lees
+je, leest, lezen, lezen, lezen
