@@ -9,3 +9,4 @@
 | wij/we      | zijn           |
 | jullie      | zijn           |
 | zij/ze      | zijn           |
+
