@@ -57,4 +57,22 @@ C. Listen and repeat + questions
 
 George Lebeau est militaire. Il apprend le français à l'ecole de langues militaire. Il est marié. Sa femme n'est pas française. Elle est Americaine. Elle apprend aussi le français. 
 
+## Make sentences with the following words
+
+Taxi - Avez-vous un taxi?
+Beau - il fait beau aujourd'hui
+Valise - Où est votre valise?
+Paris - Je vais à Paris
+Camion - Il conduis un camion
+Sont - Ils sont heureux de faire votre connaissance
+Livre - J'ai un livre
+Enfants - Avez-vous des enfants?
+Apprends - J'apprends le français
+Quelquefois - allez-vous quelquefois au club?
+Chez - Bienvenue chez nous
+Bonne - aimez-vous notre bonne maison?
+Américaine - Je ne veux pas etre américaine
+Peuvent - ils peuvent tuer tout le monde
+Langue - Quelle lange parlez-vous?
+Club - voulez-vous allez au club ce soir?
 
