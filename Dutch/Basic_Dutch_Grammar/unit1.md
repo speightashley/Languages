@@ -75,3 +75,26 @@ Hoi, **Ik** ben Karin Beumer. Mijn vader heet Erik, **hij** is advocaat, **hij**
 
 1 je. 2 Ik, jij. 3 Ik, je. 4 Ik. 5 je. 6 Hij, jij. 7 Ik, Zij/Ze. 8 we.
 
+### Exercise 1.4
+
+1 **Karin**: Meneer Kampen, kunt **U** me even helpen?
+
+2 **Oscar**: Meneer Kampen, moeten **wij** oefening (‘exercise’)
+
+8 ook doen?
+
+3 **Hans**:  Hé Oscar, weet __________ het huiswerk voor morgen?
+
+4 **Joris**: Meneer Kampen, heeft __________ de proefwerken (‘tests’) van
+
+gisteren?
+
+5 **Oscar**: Jongens, __________ gaan koffie drinken. Gaan __________
+
+mee?
+
+6 **Ina**: Wacht even. Karin is naar de wc. __________ komt zo.
+
+7 **Karin**: Hier ben __________ . Waar zijn de anderen?
+
+8 **Ina**: zijn al in de kantine. Kom __________?
