@@ -93,13 +93,29 @@ Give to Ik and Wij versions of the following verbs:
 
 | Pronoun       | Kopen | Passen | Eten | Schrijven | Lezen |
 | ------------- | ----- | ------ | ---- | --------- | ----- |
-| Ik            | Koop  | Pass   | Eet  | Schrijf   | Lees  |
+| Ik            | Koop  | Pas    | Eet  | Schrijf   | Lees  |
 | Jij/Je, u     | koopt | past   | eet  | schrift   | leest |
-| Hij, Zij, het | koopt | pass   | eet  | schrijf   | lees  |
+| Hij, Zij, het | koopt | past   | eet  | schrijft  | leest |
 | Wij/We        | kopen | passen | eten | schrijven | lezen |
 | Jullie        | kopen | passen | eten | schrijven | lezen |
 | Zij/ze        | kopen | passen | eten | schrijven | lezen |
-1 koop, koopt, koop je, koopt, kopen, kopen, kopen. 2 pas, past, pas je,
-past, passen, passen, passen. 3 eet, eet, eet je, eet, eten, eten, eten. 4 schrijf,
-schrijft, schrijf je, schrijft, schrijven, schrijven, schrijven. 5 lees, leest, lees
-je, leest, lezen, lezen, lezen
+### Exercise 1.8
+
+Put the correct verb form
+
+1 Ik ga naar Amsterdam. **Ga** je mee?
+
+2 Ik koop in Amsterdam een souvenir. **Koop** je ook een souvenir?
+
+3 Ik drink op een terras een kopje koffie. **drink** je ook een kopje?
+
+4 Ik bezoek het Rijksmuseum. **Bezoek** je het museum ook?
+
+5 Ik eet ’s avonds op het Leidseplein een pizza. **eet** je ook een pizza?
+
+### Exercise 1.9
+Enter the correct forms of **hebben** and **zijn**.
+
+Hoi, ik **ben** (1) Peter, en dit **is** (2) mijn familie. Ik **heb** (3) geen broers, maar wel een zus, Karin. Mijn vader **is** (4) advocaat, mijn moeder **is** (5) lerares. Karin en ik **hebben** (6) vier grootouders, opa en oma Beumer en opa en oma Hulst. Mijn vader **heeft** (7) geen broers en zussen, maar ik
+**heb** (8) wel tantes en ooms van mijn moeders kant, want zij **heeft** (9) een grote familie. Een keer per jaar **zijn** (10) we met de hele familie bij opa en oma Hulst voor de grote jaarlijkse reünie. Dat **is** (11) altijd heel leuk. En jij? **Heb** (12) je een grote familie?
+
