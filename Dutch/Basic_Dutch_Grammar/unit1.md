@@ -55,3 +55,20 @@ Hoi, **Ik** ben Karin Beumer. Mijn vader heet Erik, **hij** is advocaat, **hij**
 
 1 ik. 2 hij. 3 hij. 4 zij/ze. 5 ze. 6 hij. 7 We. 8 zij/ze. 9 Zij/Ze. 10 We. 11 jullie.
 
+### Exercise 1.3
+
+1 Ina: Hoi, hoe heet **Je**?
+
+2 Karin: **Ik** heet Karin. En **jij**?
+
+3 Ina: __________ ben Ina. Woon __________ in Sneek?
+
+4 Karin: Nee, in Hardegarijp. __________ kom met de bus naar school.
+
+5 Ina: Heb __________ broers en zussen?
+
+6 Karin: Ja, een broer, Peter. __________ zit in 5 HAVO. En __________?
+
+7 Ina: __________ heb een zus. __________ zit nog op de basisschool.
+
+8 Karin: Kom, __________ gaan naar binnen.
