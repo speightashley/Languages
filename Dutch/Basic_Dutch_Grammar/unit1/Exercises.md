@@ -1,38 +1,3 @@
-# Verbs and Pronouns
-
-## Subject forms and personal pronouns
-
-### Singular Pronouns
-| Dutch | English | Explaination |
-| ---- | ---- | ----- |
-| ik | I | 1st person |
-| jij/je | You | 2nd person |
-| hij | He | 3rd person |
-| zij/ze | She | 3rd person |
-| het | it | 3rd person |
-
-### Plural Pronouns
-
-| Dutch | English | Explaination |
-| ---- | ---- | ---- |
-| wij/we | we | 1st person |
-| jullie/U | you | 2nd person |
-| zij/ze | they | 3rd person |
-
->[!example] Examples
-> - Henk woont in Zeist, Hij werkt in Utrecht
-> - Maria is lerares. Ze werkt part-time
-
->[!note] Notes on things
->- **het** is used for neuter nouns
->- Hij is used for masculine and feminine nouns in the singular
->- Zij/ze is used for plural nouns
-
-Examples:
-
-Waar is **het** boek? **Het** zit in mijn tas
-## Exercises
-
 ### Exercise 1.1
 
 Put the correct pronouns under the pictures:
@@ -97,9 +62,14 @@ Hoi, **Ik** ben Karin Beumer. Mijn vader heet Erik, **hij** is advocaat, **hij**
 
 ### Exercise 1.5
 
-| Erik                      | Sanne                      |
-| ------------------------- | -------------------------- |
-| Waar is de krant?         | **Hij** ligt op de tafel   |
-| Waar zijn m'n pantoffels? | **Ze** staan onder het bed |
-| Sanne, waar ben jij?      | **Ik** ben in de keuken    |
-|                           |                            |
+| Erik                              | Sanne                           |
+| --------------------------------- | ------------------------------- |
+| Waar is de krant?                 | **Hij** ligt op de tafel        |
+| Waar zijn m'n pantoffels?         | **Ze** staan onder het bed      |
+| Sanne, waar ben jij?              | **Ik** ben in de keuken         |
+| Waar staat m'n koffie?            | **Het** staat hier in de keuken |
+| Waar zijn de kinderen?            | **Ze** maken huiswerk           |
+| Is het eten al klaar?             | **Het** is om zes uur klaar.    |
+| Wat doen jij en Jolanda vanadond? | **We** gaan naar de sportschool |
+| Hoe is die nieuwe trainer?        | Hij is goed. En heel aardig.    |
+1 Hij. 2 Ze. 3 Ik. 4 Hij. 5 Ze. 6 Het. 7 We. 8 Hij.
