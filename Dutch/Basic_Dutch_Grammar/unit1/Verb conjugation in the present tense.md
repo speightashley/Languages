@@ -18,6 +18,14 @@
 > - Add the suffix for each pronoun
 
 >[!tip]
+> - U always has a -t on the root whether it's singular or plural U
+> - Jij/je always adds the -t unless the position of jij/je is reversed
+
+# Auxiliary verbs in present tense
+
+## [[hebben]]
+
+## [[zijn]]
 
 
 
