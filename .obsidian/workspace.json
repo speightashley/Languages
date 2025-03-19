@@ -11,14 +11,10 @@
             "id": "900c5ed509f34bc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dutch/Basic_Dutch_Grammar/Dutch Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dutch Index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,9 +173,11 @@
   },
   "active": "900c5ed509f34bc4",
   "lastOpenFiles": [
-    "Dutch/Basic_Dutch_Grammar/Doen - To do.md",
+    "Dutch/Basic_Dutch_Grammar/kunnen.md",
+    "Dutch/Basic_Dutch_Grammar/unit2.md",
     "Dutch/Basic_Dutch_Grammar/Dutch Index.md",
     "Dutch/Basic_Dutch_Grammar/unit1.md",
+    "Dutch/Basic_Dutch_Grammar/Doen - To do.md",
     "Dutch/Basic_Dutch_Grammar/Exercises.md",
     "Dutch/Basic_Dutch_Grammar/Spelling changes in conjugations.md",
     "files/Pasted image 20250318221128.png",
