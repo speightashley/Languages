@@ -11,10 +11,14 @@
             "id": "900c5ed509f34bc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dutch/Basic_Dutch_Grammar/unit2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unit2"
             }
           }
         ]
@@ -173,8 +177,12 @@
   },
   "active": "900c5ed509f34bc4",
   "lastOpenFiles": [
-    "Dutch/Basic_Dutch_Grammar/kunnen.md",
+    "Dutch/Basic_Dutch_Grammar/zullen - Should.md",
     "Dutch/Basic_Dutch_Grammar/unit2.md",
+    "Dutch/Basic_Dutch_Grammar/willen - To want.md",
+    "Dutch/Basic_Dutch_Grammar/mogen - to maybe.md",
+    "Dutch/Basic_Dutch_Grammar/moeten - To have to.md",
+    "Dutch/Basic_Dutch_Grammar/kunnen - To be able.md",
     "Dutch/Basic_Dutch_Grammar/Dutch Index.md",
     "Dutch/Basic_Dutch_Grammar/unit1.md",
     "Dutch/Basic_Dutch_Grammar/Doen - To do.md",
@@ -202,7 +210,6 @@
     "French/Volume 1.md",
     "French/French MOC.md",
     "files",
-    "French",
-    "Welcome.md"
+    "French"
   ]
 }
