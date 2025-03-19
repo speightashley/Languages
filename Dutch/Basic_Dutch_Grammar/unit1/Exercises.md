@@ -119,3 +119,22 @@ Enter the correct forms of **hebben** and **zijn**.
 Hoi, ik **ben** (1) Peter, en dit **is** (2) mijn familie. Ik **heb** (3) geen broers, maar wel een zus, Karin. Mijn vader **is** (4) advocaat, mijn moeder **is** (5) lerares. Karin en ik **hebben** (6) vier grootouders, opa en oma Beumer en opa en oma Hulst. Mijn vader **heeft** (7) geen broers en zussen, maar ik
 **heb** (8) wel tantes en ooms van mijn moeders kant, want zij **heeft** (9) een grote familie. Een keer per jaar **zijn** (10) we met de hele familie bij opa en oma Hulst voor de grote jaarlijkse reünie. Dat **is** (11) altijd heel leuk. En jij? **Heb** (12) je een grote familie?
 
+### Exercise 1.10
+
+For each blank, choose the right verb and enter the correct form. Select from: **wonen, werken, komen, zijn, heten, spellen, gaan, studeren**.
+
+Situation: Meet Hanife!
+
+Dag! Mijn naam **is** (1) Hanife. Dat **spell** (2) je H-A-N-I-F-E. Ik **koom** (3) uit Turkije, maar ik **woon** (4) in Nederland.
+
+Ik **studeer** (5) aan de Vrije Universiteit in Amsterdam. Ik **werk**(6) op vrijdag- en zaterdagavond in een restaurant. Mijn beste vriendin **heet** (7) Linda. Zij **werkt** (8) ook in dat restaurant. Maar zij
+
+__________ (9) in Alkmaar. Ze __________ (10) elke dag met de trein naar
+
+Amsterdam. Volgende week __________ (11) we samen op vakantie naar
+
+Spanje. En wie __________ (12) jij? __________ (13) je uit Nederland? Waar
+
+__________ (14) je? Wat __________ (15) je van beroep? Of __________
+
+(16) je student?
