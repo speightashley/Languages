@@ -76,3 +76,62 @@ Peuvent - ils peuvent tuer tout le monde
 Langue - Quelle lange parlez-vous?
 Club - voulez-vous allez au club ce soir?
 
+
+## Translate the following sentences
+
+I am going to Paris. - Je vais à Paris
+
+Mr. Arnaud is not a bachelor. - Monsieur Arnaud n'est pas celibataire
+
+They are learning French at the Defense Language Institute. - Ils apprennent le français à l'ecole de langues militaire
+
+Peter wants a pencil. - Peter veut un stylo
+
+I want to study French. - Je veux etudier le français
+I do not know Japanese. - Je ne sais pas le japonais
+
+We watch television every evening. - Nous regardons la televison tous les soirs
+
+The soldiers live in the barracks. - Les soldats vivent dans la caserne
+
+They may live in Washington. - ils peuvent vivre en Washington
+
+Where does the Major live? - Où habite le Major?
+
+He lives on Franklin Street. - Il habite au rue Franklin
+Is he married? - Est-il marié?
+Yes. He has a large family. - Oui. Il a une grande famille
+
+The Major's children are learning French in high school. - Les enfants du Major apprennent le français au lycee
+
+They do not learn Japanese. - Ils n'apprennent pas le japonais
+
+What are you doing? - Que faites-vous?
+
+I am reading. - Je lis
+
+Do you read a lot? - Lisez-vous beaucoup?
+
+Yes. I like to read. - Oui. J'aime lire
+
+Where is the teacher? - Où est le professeur?
+
+He is not here yet. - Il n'est pas encore ici
+
+What are you reading? - Qu'est-ce que vous Lisez?
+
+I am reading the lesson. - Je lis le leçon
+Do you find it easy? - Est-ce que vous trouvez le leçon facile?
+No. This lesson is not easy. - Non, ce leçon n'est pas facile
+
+Can you read French? - Pouvez-vous lire le francais?
+
+Yes. I can read French. - Oui. Je peux lire le francais
+
+Do all the teachers speak English? - Est-ce que tous les professeurs parlent anglais?
+
+Yes, they speak English. - Oui. ils parlent anglais
+
+Good-bye, gentlemen. - Au revoir messieurs
+
+
