@@ -9,12 +9,18 @@
 
 ## Questions starting with a question word
 
-- Hoe
-- Howveel
-- Waar
-- Waar.....vandaan
-- Wat
-- 
+- Hoe - How
+- Hoeveel - How many
+- Waar - Where
+- Waar.....vandaan - Where from
+- Wat - What
+- Welk/e - Which
+- Wat voor - What kind of
+- Wie - Who
+- Wanneer - When
+- Waarom - Why
+
+
 
 
 
