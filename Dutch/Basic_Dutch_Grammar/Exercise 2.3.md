@@ -19,3 +19,7 @@ Example: Ik moet mijn huiswerk maken.
 - schaatsen ‘skate’, 
 - op vakantie gaan ‘go on vacation’.
 
+Ik moet op vakantie gaan
+Ik wil naar de bioscoop gaan
+Ik mag boodschappen doen
+Ik zal eten koken
