@@ -134,4 +134,28 @@ Yes, they speak English. - Oui. ils parlent anglais
 
 Good-bye, gentlemen. - Au revoir messieurs
 
+# Volume 1 - Lesson 10 (Review)
 
+## Give the short form
+
+Il prend ces livres. - Il les prend
+Vous ne savez pas la leçon. - Vous ne la savez pas
+Les élèves téléphonent au professeur. - Ils lui téléphonent
+Je ne parle pas aux enfants. - Je ne leur parle pas
+Je vais voir le colonel. - Je vais lui voir
+Ils disent bonjour au colonel. - ils lui disent bonjour
+Vous ne voyez pas les Durand ce soir. - Vous ne les voyez pas ce soir
+Elle sait bien son dialogue. - Elle le sait bien
+Il demande un livre à Mlle Lafné. - il lui demande un livre
+Elle enseigne le français aux femmes des élèves. - Elle leur enseigne le francais
+
+Il ne veut pas apprendre le japonais. - il ne veut pas l'apprendre
+Ils aiment les livres français. - Ils les aiment
+Elle n'aime pas les voitures américaines. - Elle ne les aime pas
+Il ne peut pas voir les élèves ce soir. - il ne peut pas les voir ce soir
+Vous ne pouvez pas demander ça au sergent. - vous ne pouvez pas lui demander
+Vous prenez cette chaise ? - Vous la prenez?
+Qu'est-ce que vous dites aux élèves ? - Qu'est-ce que vous leur dites?
+Il donne des explications aux élèves. - il leur donne des explications
+Est-ce que vous donnez ça au sergent ? - Est-ce que vous lui donnez?
+Ils peuvent lire ces magazines. - Ils peuvent les lire
