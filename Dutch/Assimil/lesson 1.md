@@ -22,10 +22,13 @@
 |           | Hans            |       |       |
 |           | mevrouw Kets    |       |       |
 
-| row 1         | row 2     | row 3        |
-| ------------- | --------- | ------------ |
-| Mijn vrouw    | maakt het | goed         |
-| Meneer De Vos |           | ook goed     |
-| Mijn dochter  |           | niet goed    |
-| Tom           |           | heel goed    |
-| Mijn zoon     |           | ook heel goe |
+| row 1              | row 2     | row 3          |
+| ------------------ | --------- | -------------- |
+| Mijn vrouw         | maakt het | goed           |
+| Meneer De Vos      |           | ook goed       |
+| Mijn dochter       |           | niet goed      |
+| Tom                |           | heel goed      |
+| Mijn zoon          |           | ook heel goed  |
+| Wim                |           | niet heel goed |
+| Mijn schoondochter |           |                |
+| Mevrouw Marck      |           |                |
