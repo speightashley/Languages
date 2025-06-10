@@ -15,6 +15,10 @@ Columns are used to organise the words / phrases
 [[lesson 6]]
 
 [[lesson 9]]
+[[lesson 11]]
+[[lesson 12]]
+[[lesson 13]]
+
 
 
 

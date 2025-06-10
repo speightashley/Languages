@@ -4,4 +4,5 @@
 | Misschien |       | ze          | met de bus   |
 | Nu        |       | de jongen   | met de wagen |
 | Dikwijls  |       | Wim         | met de auto  |
-| Weer      |       | onze vriend |              |
+| Weer      |       | onze vriend | met de tram  |
+|           |       | mijn zoon   |              |
