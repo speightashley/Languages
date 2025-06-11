@@ -23,6 +23,8 @@ Columns are used to organise the words / phrases
 [[lesson 15]]
 [[lesson 16]]
 [[lesson 17]]
+[[lesson 19]]
 
+[[lesson 22]]
 
 
