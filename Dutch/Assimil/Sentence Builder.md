@@ -26,5 +26,7 @@ Columns are used to organise the words / phrases
 [[lesson 19]]
 
 [[lesson 22]]
-
+[[lesson 23]]
+[[lesson 24]]
+[[lesson 25]]
 
