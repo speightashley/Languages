@@ -9,6 +9,7 @@
 |       | meneer Varten   |          |         |
 |       | uw vrouw        |          |         |
 |       | uw schoonzoon   |          |         |
+[[full sentences - lesson 1]]
 
 | row 1     | row 2           | row 3 | row 4 |
 | --------- | --------------- | ----- | ----- |
