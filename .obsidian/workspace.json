@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "full sentences - lesson 1"
             }
+          },
+          {
+            "id": "4d6c83b0ca27c548",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "900c5ed509f34bc4",
+  "active": "4d6c83b0ca27c548",
   "lastOpenFiles": [
     "Dutch/Assimil/lesson 1.md",
     "Dutch/Assimil/lesson 9.md",
