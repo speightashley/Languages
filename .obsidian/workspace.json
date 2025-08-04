@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French/Grammar/Definite Articles.md",
+                "file": "French/Grammar/Exercise 1-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definite Articles"
+              "title": "Exercise 1-3"
             }
           }
         ],
@@ -204,9 +204,11 @@
   },
   "active": "e73f236088965ec0",
   "lastOpenFiles": [
-    "French/Grammar/Definite Articles.md",
-    "French/Grammar/Articles.md",
+    "French/Grammar/Accents.md",
+    "French/Grammar/Exercise 1-3.md",
     "French/Grammar/Central Hub.md",
+    "French/Grammar/Articles.md",
+    "French/Grammar/Definite Articles.md",
     "French/Grammar",
     "Dutch/Assimil/lesson 1.md",
     "Dutch/Assimil/lesson 9.md",
@@ -229,8 +231,6 @@
     "Dutch/Assimil/lesson 16.md",
     "Dutch/Assimil/lesson 15.md",
     "Dutch/Assimil/lesson 14.md",
-    "Dutch/Assimil/lesson 13.md",
-    "Dutch/Assimil/lesson 12.md",
     "files/Pasted image 20250318221128.png",
     "Dutch/Basic_Dutch_Grammar/unit1",
     "files/Pasted image 20250318165446.png",
