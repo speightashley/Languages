@@ -6,11 +6,11 @@ La porte étroite, André Gide (1909)
 
 —J’ai frappé; tu n’as pas répondu, Alissa, tu sais que je pars demain?
 
-Elle ne répondit rien, mais posa sur la cheminée le collier qu’elle ne parvenait pas a agrafer. Le mot: fiançailles me paraissait trop nu, trop brutal, j’employai je ne sais quelle periphrase a la place. Des qu’Alissa me comprit, il me parut qu’elle chancela, s’appuya contre la cheminee … mais j’etais moi-meme si tremblant que craintivement j’evitais de regarder vers elle.
+Elle ne répondit rien, mais posa sur la cheminée le collier qu’elle ne parvenait pas a agrafer. Le mot: fiançailles me paraissait trop nu, trop brutal, j’employai je ne sais quelle périphrase à la place. Des qu’Alissa me comprit, il me parut qu’elle chancela, s’appuya contre la cheminée … mais j’étais moi-meme si tremblant que craintivement j’évitais de regarder vers elle.
 
-J’etais pres d’elle et, sans lever les yeux, lui pris la main; elle ne se degagea pas, mais, inclinant un peu son visage et soulevant un peu ma main, elle y posa ses levres et murmura, appuyee a demi contre moi:
+J’étais prés d’elle et, sans lever les yeux, lui pris la main; elle ne se dégagea pas, mais, inclinant un peu son visage et soulevant un peu ma main, elle y posa ses lèvres et murmura, appuyée a demi contre moi:
 
-—Non, Jerome, non; ne nous fiancons pas, je t’en prie … 
+—Non, Jerome, non; ne nous fiançons pas, je t’en prie … 
 
 —Pourquoi?
 
