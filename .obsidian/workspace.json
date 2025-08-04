@@ -32,9 +32,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.10"
             }
+          },
+          {
+            "id": "e73f236088965ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French/Grammar/Definite Articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definite Articles"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d6c83b0ca27c548",
+  "active": "e73f236088965ec0",
   "lastOpenFiles": [
+    "French/Grammar/Articles.md",
+    "French/Grammar/Definite Articles.md",
+    "French/Grammar/Central Hub.md",
+    "French/Grammar",
     "Dutch/Assimil/lesson 1.md",
     "Dutch/Assimil/lesson 9.md",
     "Dutch/Assimil/full sentences - lesson 6.md",
@@ -213,9 +231,6 @@
     "Dutch/Assimil/lesson 14.md",
     "Dutch/Assimil/lesson 13.md",
     "Dutch/Assimil/lesson 12.md",
-    "Dutch/Assimil/lesson 11.md",
-    "Dutch/Basic_Dutch_Grammar/Exercise 3.4.md",
-    "Dutch/Basic_Dutch_Grammar/Untitled.md",
     "files/Pasted image 20250318221128.png",
     "Dutch/Basic_Dutch_Grammar/unit1",
     "files/Pasted image 20250318165446.png",
