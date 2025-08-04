@@ -16,14 +16,14 @@ J’étais prés d’elle et, sans lever les yeux, lui pris la main; elle ne se 
 
 —Mais c’est moi qui peux te demander: pourquoi? pourquoi changer?
 
-Je n’osais lui parler de la conversation de la veille, mais sans doute elle sentit que j’y pensais, et, comme une reponse a ma pensee, dit en me regardant fixement:
+Je n’osais lui parler de la conversation de la veille, mais sans doute elle sentit que j’y pensais, et, comme une réponse à ma pensée, dit en me regardant fixement:
 
 —Tu te me prends, mon ami: je n’ai pas besoin de tant de bonheur. Ne sommes-nous pas heureux ainsi?
 
-Elle s’efforcait en vain a sourire.
+Elle s’efforçait en vain a sourire.
 
 —Non, puisque je dois te quitter.
 
-—Ecoute, Jerome, je ne puis te parler ce soir … Ne gatons pas nos derniers instants …
+—Ecoute, Jerome, je ne puis te parler ce soir … Ne gâtons pas nos derniers instants …
 
-Non, non. Je t’aime autant que jamais; rassure-toi. Je t’ecrirai; je t’expliquerai. Je te promets de t’ecrire, des demain … des que tu seras parti. Va, maintenant!
+Non, non. Je t’aime autant que jamais; rassure-toi. Je t’écrirai; je t’expliquerai. Je te promets de t’écrire, des demain … des que tu seras parti. Va, maintenant!
