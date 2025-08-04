@@ -20,10 +20,10 @@ Je n’osais lui parler de la conversation de la veille, mais sans doute elle se
 
 —Tu te me prends, mon ami: je n’ai pas besoin de tant de bonheur. Ne sommes-nous pas heureux ainsi?
 
-Elle s’efforçait en vain a sourire.
+Elle s’efforçait en vain à sourire.
 
 —Non, puisque je dois te quitter.
 
 —Ecoute, Jerome, je ne puis te parler ce soir … Ne gâtons pas nos derniers instants …
 
-Non, non. Je t’aime autant que jamais; rassure-toi. Je t’écrirai; je t’expliquerai. Je te promets de t’écrire, des demain … des que tu seras parti. Va, maintenant!
+Non, non. Je t’aime autant que jamais; rassure-toi. Je t’écrirai; je t’expliquerai. Je te promets de t’écrire, dés demain … dés que tu seras parti. Va, maintenant!
